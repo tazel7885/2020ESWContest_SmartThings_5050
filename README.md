@@ -3,7 +3,7 @@
 
 # HY-mec
 
-#Hardware
+# Hardware
 - mobile robot
 ![IMG_2419](https://user-images.githubusercontent.com/48857469/95692403-7c7ea380-0c60-11eb-9d55-747f64419414.jpeg)
 
@@ -11,7 +11,7 @@
 ![IMG_2420](https://user-images.githubusercontent.com/48857469/95692431-b0f25f80-0c60-11eb-85d1-a690fff2d97e.jpeg)
 
 
-#software
+# software
 1. cmd
 - main computer command file
 
