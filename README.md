@@ -1,7 +1,8 @@
 # swarm_robot
 
 
-# HY-mec
+# Team
+HY-mec
 
 # Hardware
 - mobile robot
