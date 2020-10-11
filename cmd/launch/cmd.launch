@@ -1,0 +1,6 @@
+<launch>
+	<rosparam file="$(find cmd)/map_info/map.yaml" />
+	<node name="cmd1_node" pkg="cmd" type="cmd1"/>
+	<node name="cmd2_node" pkg="cmd" type="cmd2"/>
+	<node name="cmd3_node" pkg="cmd" type="cmd3"/>
+</launch>

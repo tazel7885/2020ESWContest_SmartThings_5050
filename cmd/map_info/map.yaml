@@ -1,0 +1,32 @@
+map1:
+  cols: 4
+  point1_x: 0.75
+  point1_y: -1.0
+  point2_x: 0.75
+  point2_y: -1.3
+  point3_x: 0.75
+  point3_y: -1.6
+  point4_x: 0.15
+  point4_y: -0.1
+
+map2:
+  cols: 4
+  point1_x: 1.35
+  point1_y: -1.0
+  point2_x: 1.35
+  point2_y: -1.3
+  point3_x: 1.35
+  point3_y: -1.6
+  point4_x: 0.15
+  point4_y: -0.1
+
+map3:
+  cols: 4
+  point1_x: 1.95
+  point1_y: -1.0
+  point2_x: 1.95
+  point2_y: -1.3
+  point3_x: 1.95
+  point3_y: -1.6
+  point4_x: 0.15
+  point4_y: -0.1
